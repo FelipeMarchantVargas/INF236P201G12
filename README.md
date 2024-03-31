@@ -16,6 +16,8 @@ Este es el repositorio del *Grupo 20*, del ramo de Ingeneria de Software cuyos i
 * Joaquin Rojo Olea - 202173550-k
 * **Tutor**: Vicente Ruiz
 
+Utilizaremos el proyecto del paralelo 201. El cual consiste en un software en el cual se pueden agendar horas para distintos examenes medicos. 
+
 ## Wiki
 
 Puede acceder a la Wiki (en github) mediante el siguiente [enlace](https://github.com/Nachops/INF236P201G12/wiki) 
