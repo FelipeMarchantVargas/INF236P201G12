@@ -1,4 +1,4 @@
-# Grupo 12
+# Grupo 12 2023-2
 
 Este es el repositorio del *Grupo 12*, cuyos integrantes son:
 
@@ -6,6 +6,15 @@ Este es el repositorio del *Grupo 12*, cuyos integrantes son:
 * Angelo Russu Cisternas - 202173509-7
 * Sebastián Arrieta Moron - 202173511-9
 * **Tutor**: Ignacio Muñoz
+
+# Grupo 20 2024-1
+Este es el repositorio del *Grupo 20*, del ramo de Ingeneria de Software cuyos integrantes son:
+
+* Felipe Marchant Vargas - 202173643-3
+* Angelo Russu Cisternas - 202173509-7
+* Agustin Lopez  - 202130549-1
+* Joaquin Rojo Olea - 202173550-k
+
 
 ## Wiki
 
