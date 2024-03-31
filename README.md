@@ -29,7 +29,7 @@ Wiki en gitlab:
 - [Diagrama de secuencia.](https://gitlab.inf.utfsm.cl/felipe.marchant/proyecto-inf236-grupo-12/-/wikis/Diagrama-de-secuencia)
 - [Evidencias visuales proyecto.](https://gitlab.inf.utfsm.cl/felipe.marchant/proyecto-inf236-grupo-12/-/wikis/Evidencias-visuales-proyecto)
 - [Evaluación final del proyecto.](https://gitlab.inf.utfsm.cl/felipe.marchant/proyecto-inf236-grupo-12/-/wikis/Evaluaci%C3%B3n-final-proyecto)
-
+- [retrospectiva]
 
 
 ## Videos
