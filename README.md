@@ -14,7 +14,7 @@ Este es el repositorio del *Grupo 20*, del ramo de Ingeneria de Software cuyos i
 * Angelo Russu Cisternas - 202173509-7
 * Agustin Lopez  - 202130549-1
 * Joaquin Rojo Olea - 202173550-k
-
+**Tutor**: Vicente Ruiz
 
 ## Wiki
 
@@ -29,6 +29,8 @@ Wiki en gitlab:
 - [Diagrama de secuencia.](https://gitlab.inf.utfsm.cl/felipe.marchant/proyecto-inf236-grupo-12/-/wikis/Diagrama-de-secuencia)
 - [Evidencias visuales proyecto.](https://gitlab.inf.utfsm.cl/felipe.marchant/proyecto-inf236-grupo-12/-/wikis/Evidencias-visuales-proyecto)
 - [Evaluación final del proyecto.](https://gitlab.inf.utfsm.cl/felipe.marchant/proyecto-inf236-grupo-12/-/wikis/Evaluaci%C3%B3n-final-proyecto)
+
+
 
 ## Videos
 
