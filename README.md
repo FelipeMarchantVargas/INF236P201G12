@@ -1,4 +1,4 @@
-# Grupo 12
+# Grupo 12 2023-2
 
 Este es el repositorio del *Grupo 12*, cuyos integrantes son:
 
