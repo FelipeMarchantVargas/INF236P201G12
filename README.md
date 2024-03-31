@@ -14,7 +14,7 @@ Este es el repositorio del *Grupo 20*, del ramo de Ingeneria de Software cuyos i
 * Angelo Russu Cisternas - 202173509-7
 * Agustin Lopez  - 202130549-1
 * Joaquin Rojo Olea - 202173550-k
-**Tutor**: Vicente Ruiz
+* **Tutor**: Vicente Ruiz
 
 ## Wiki
 
